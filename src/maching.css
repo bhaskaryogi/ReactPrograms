@@ -1,0 +1,45 @@
+.gameMach{text-align: center;
+          text-transform: capitalize;
+          color: white;
+          font-size: 30px;
+          word-spacing: 5px;
+          margin: 0;
+          padding: 30px;
+          font-family: sans-serif;         
+          background-color:cadetblue;
+}
+.matchBox{
+    text-align: center;
+    border: 2px solid white;
+    width: 450px;
+    margin-left: 500px;
+    margin-top: 60px;
+    border-radius: 3%;
+    box-shadow: 0px 5px 50px 0px;
+    background-color: cadetblue;
+}
+.box{box-sizing: border-box;
+    background-color: cadetblue;
+    padding-bottom: 180px;    
+    border-radius: 50px;    
+}
+.slotHead{font-family:Verdana, Geneva, Tahoma, sans-serif ;
+        font-size: 20px;
+        word-spacing: 5px;
+        color: aliceblue;
+    }
+/* input{ color: black; text-align: center; height: 30px; top: 10px; border: none; background: transparent; font-size: 20px; font-weight: 500; width: 60%; border-bottom: 2px solid blueviolet; outline: none; }
+.form{margin: 100px 450px; align-items: center; text-align: center;}
+button{ color: white; color: aliceblue; background-color: blueviolet;border-color: aliceblue; border-radius: 50%; font-size: 20px;}
+.image{width: 640px;}
+.frame{ box-shadow: 0px 0px 5px 0px; color: aliceblue; border: 2px solid aliceblue; background-color: aliceblue; border-radius: 20px; width: 350px; height: 500px;}
+h1{background-color: blueviolet; width: auto; color: aliceblue; text-align:center}
+li{ font-family:'Times New Roman', Times, serif; font-size: 25px; text-align: left; color:rgb(108, 110, 115) ; background-color: aliceblue;} */
+
+
+*{background-color: rgb(120, 173, 251); color: aliceblue;}
+.card{ border: 2px solid aliceblue; margin-top: 20px; background-color: rgb(120, 173, 251);}
+.inputData{border: none;  background-color: transparent; color: black; outline: none; }
+.title{border: none;  background-color: transparent; color: black; outline: none; font-size: 30px;}
+/* button{ float: right;  border-radius: 50%; width: 50px; font-size: 30px; margin: 30px 0px -20px 318px; } */
+.sec{margin-top: 60px;}
